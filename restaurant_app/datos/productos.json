@@ -1,0 +1,36 @@
+[
+    {
+        "tipo": "producto",
+        "codigo": "001",
+        "nombre": "Hamburguesa",
+        "categoria": "plato fuerte",
+        "precio": 4.0,
+        "stock": 6
+    },
+    {
+        "tipo": "bebida",
+        "codigo": "002",
+        "nombre": "Coca Cola",
+        "categoria": "gaseosa",
+        "precio": 2.0,
+        "stock": 9,
+        "tamano": "Grande"
+    },
+    {
+        "tipo": "producto",
+        "codigo": "003",
+        "nombre": "Sopa Marinera",
+        "categoria": "sopa",
+        "precio": 5.0,
+        "stock": 3
+    },
+    {
+        "tipo": "bebida",
+        "codigo": "004",
+        "nombre": "jugo de mora",
+        "categoria": "jugo natural",
+        "precio": 2.0,
+        "stock": 5,
+        "tamano": "Grande"
+    }
+]
