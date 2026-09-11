@@ -1,3 +1,7 @@
+import os
+
+os.system("cls")  # Limpiar la consola
+
 import tkinter as tk
 from pathlib import Path
 
