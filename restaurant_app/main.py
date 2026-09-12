@@ -15,7 +15,7 @@ class AplicacionRestaurante:
 
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Restaurante - Tkinter")
+        self.root.title("APP Restaurante - VACA & VACO")
         self.root.geometry("680x520")
         self.root.minsize(560, 460)
 
